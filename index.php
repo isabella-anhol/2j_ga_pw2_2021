@@ -1,12 +1,9 @@
 <?php
-    echo "Hello world!"; //oi
+$arq1 = "joaozinho.pdf"
+$arq2 = "gabrielinha.png"
 
-    $nome = 1;
-    $nome2 = 1.0;
-    $nome3 = 1.02;
-    $nome4 = "Sérginho";
+$posArq1 = strpos($arq1, ".");
+$posArq2 = strpos($arq2, ".");
 
-    echo " boa tarde, olha: $nome4"; /* olha issoooooooooo */
-
-
+pdf, png, jpg, mp3, mp4
 ?>
